@@ -1,2 +1,1 @@
-# gastritis-level-predictor
-gastritis-level-predictor
+# Flask-web-application
